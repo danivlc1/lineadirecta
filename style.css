@@ -1,0 +1,49 @@
+div.imagen{
+    text-align: center;
+}
+h2.acceso{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(61, 61, 61);
+    font-size: 33px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+div.titular{
+    margin-left: 38%;
+    font-size: 10px;
+    color: gray;
+}
+input.cajai{
+    width: 400px;
+    weight: 400px;
+    margin-left: 38%;
+    color: gray;
+}
+
+div.titular2{
+    margin-left: 38%;
+    font-size: 10px;
+    color:gray
+}
+input.cajae{
+    width: 400px;
+    weight: 400px;
+    margin-left: 38%;
+}
+a.contraseña{
+    font-size: 16px;
+    color: red;
+    padding-left: 43%;
+}
+.marcado{
+    padding-left: 44%;
+    color: brown;
+    font-size: 15px;
+}
+.acceder{
+    padding-left: 47%;
+}
+.grua{
+    padding-left: 46%;
+}
